@@ -1,0 +1,18 @@
+{
+  "name": "campus-docs-api",
+  "version": "1.0.0",
+  "description": "Campus Docs API - Vercel Serverless Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vercel", "serverless", "api"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
